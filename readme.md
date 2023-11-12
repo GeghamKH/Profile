@@ -177,7 +177,7 @@ IT Technical Support Intern***
 
 -   Using the SFML library, I've written games similar to Mario, Tetris, and mazes.
 
-## Familiar and improving knowledge
+# Familiar and improving knowledge
 
  - Unreal Engine 4 & 5
  - Jenkins, GitLab
