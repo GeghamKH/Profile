@@ -1,7 +1,7 @@
 #  Hello, my name is Gegham Khachatryan
 
 # Summary
-*I am a technical support engineer with 4 years of experience. My work in technical support has provided me with valuable experience in customer service, including effective communication and problem-solving skills. I have also learned how to work collaboratively as part of a team and manage my time effectively. Since I studied programming at university for 6 years, I want to change my area of work and continue to develop my programming skills and use them to create high-quality software products. I am looking for a team where I can learn from experienced colleagues, collaborate on complex projects, and use my knowledge to achieve successful results.*
+*I am a technical support engineer with 4 years of experience. My work in technical support has provided me with valuable experience in customer service, including effective communication and problem-solving skills. I have also learned how to work collaboratively as part of a team and manage my time effectively. Since I studied programming at university, I want to change my area of work and continue to develop my programming skills and use them to create high-quality software products. I am looking for a team where I can learn from experienced colleagues, collaborate on complex projects, and use my knowledge to achieve successful results.*
 
 # Links
 
